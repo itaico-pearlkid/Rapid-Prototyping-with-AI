@@ -65,7 +65,7 @@ AI-powered housing search platform that aggregates listings from Spanish real es
 - Landlords/agencies see visibility and client-connection benefits
 - Landlords/agencies are willing to respond to AI outreach as they would to real customers
 - Target universities have sufficient international student populations
-- Revenue model is sustainable (subscription + potential ads + data + partnerships)
+- Revenue model is sustainable: free for students, paid by universities and the supply side (see `revenue-model.md`; subscription, ads and data sales removed)
 - Competitive defensibility exists in a crowded AI space
 - **No legal restrictions (specifically data privacy laws) prevent the platform from functioning**
 
